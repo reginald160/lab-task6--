@@ -1,0 +1,4 @@
+C:\c#\Assignment\lab-task6-C#\Question1\Question1\bin\Debug\Question1.exe
+C:\c#\Assignment\lab-task6-C#\Question1\Question1\bin\Debug\Question1.pdb
+C:\c#\Assignment\lab-task6-C#\Question1\Question1\obj\x86\Debug\Question1.exe
+C:\c#\Assignment\lab-task6-C#\Question1\Question1\obj\x86\Debug\Question1.pdb
